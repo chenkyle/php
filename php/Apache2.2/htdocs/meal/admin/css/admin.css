@@ -1,0 +1,94 @@
+/* 全局定义-----ielur.com*/
+*{
+	margin:0;
+	padding:0; 
+}
+li, ul {
+	list-style-type:none;
+}
+body {
+	background: #0096b3 url(../images/bg.png) top left repeat-x;
+	font-family: "宋体",arial,verdana,sans-serif,fantasy,tahoma;
+	color:#5d5d5d; font-size: 14px;
+	text-align: center;
+}
+a {
+	color: #ffffff; text-decoration: none;
+}
+a:hover {
+	color: #c3e7ff;
+}
+/* Clear Fix */
+.clearfix:after {
+	content:".";
+	display:block;
+	clear:both;
+	visibility:hidden;
+}
+.clearfix {
+	display:inline-block;
+}
+/* Hide from IE Mac */
+.clearfix { 
+	display:block; 
+}
+/* End hide from IE Mac */
+/* 顶部-----ielur.com*/
+.top { height: 60px; width: 740px; position: absolute; left: 230px; top: 10px;
+}
+.top-menu { position: absolute; left: 340px; top: 0px;
+}
+.top-menu li { float: left; margin-left:12px; color: #FFFFFF; font-size: 12px;
+}
+/* 左边-----ielur.com*/
+.left { overflow-x: hidden; overflow-y: auto; width: 180px; position: absolute; left: 25px; top: 100px;  background: #46acc3 url(../images/left_bg.png) repeat-x top;
+}
+.left-topmenu { height: 21px; width: 180px; background: url(../images/left_top.png); padding-top: 10px;
+}
+.left-bottommenu  { height: 27px; width: 180px; background: url(../images/left_bottom.png); padding-top: 4px;
+}
+.left-topmenu img, .left-bottommenu img, .main-top-menu img { height: 16px; width: 16px; border: none;
+}
+.left-menu  { margin: 4px auto 4px auto;
+}
+.left-menu A { height: 20px; width: 180px; display: block; padding-top: 8px; font-size: 14px; color: #FFFFFF; font-weight: bold;
+}
+.left-menu A:hover { height: 20px; width: 180px; display: block; padding-top: 8px; font-size: 14px; color: #FFFFFF; text-decoration: underline;
+}
+.left-submenu A { height: 16px; width: 180px; display: block; padding: 2px 0 2px 0; font-size: 12px; color: #FFFFFF; text-decoration: underline;
+}
+.left-submenu A:hover { height: 16px; width: 180px; background: url(../images/left_bg.png); display: block; padding: 2px 0 2px 0; font-size: 12px; color: #c6edff;
+}
+/* 内容区-----ielur.com*/
+.main { overflow: auto; height: 640px; width: 766px; background: #1b97b4 url(../images/main_bg_center.png) repeat-x top; position: absolute; left: 230px; top: 88px;
+}
+.main-left { background: url("../images/main_bg_2.png") no-repeat; width: 755px; height: 600px; position: absolute; top: 0px; left: 0px;
+}
+.main-right { background: url("../images/main_bg_right.png") no-repeat; width: 8px; height: 600px; position: absolute; top: 0px; right: 0px;
+}
+.main-top { width: 766px; height: 29px; position: absolute; left: 0px; top: 1px;
+}
+.main-tit-bg { position: absolute; left: 50px; top: 2px;
+}
+.main-top-tit { color: #FFFFFF; position: absolute; left: 90px; top: 7px;
+}
+.main-top-menu { float: left; position: absolute; left: 600px; top: 6px;
+}
+.main-top-menu li { float: left; margin-left: 20px;
+}
+.main-iframe { position: absolute; left: 0px; top: 40px; width: 100%; height: 590px; overflow: auto; 
+}
+/* 脚部版权-----ielur.com*/
+.copyright { position: absolute; left: 440px; top: 724px; color: #FFFFFF; font-size: 12px; font-family: Arial; padding-bottom: 4px;
+}
+/* 页面BOX效果-----ielur.com*/
+.maximize-frame { width: 100%; height: 800px; position: absolute; top: 0;left: 0; z-index: 10001; overflow: hidden;
+}
+.white_content{ position: absolute; top: 10%; left: 10%; width: 80%; height: 70%; border: 6px solid #e6e6e6; background-color: #FFFFFF; z-index:300; overflow: hidden;
+}
+.contnet{ padding:10px;
+}
+.title { height: 26px; background-image: url(../images/box_tit_bg.png);
+}
+.box-close { position: absolute; left: 95%; top: 3px; cursor: pointer;
+}

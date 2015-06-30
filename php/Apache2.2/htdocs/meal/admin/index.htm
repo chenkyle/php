@@ -1,0 +1,23 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>Bowos后台管理系统登陆</title>
+<LINK href="css/login.css" type=text/css rel=stylesheet>
+<script language="javascript">function chkinput(form){if(form.name.value==""){alert("请输入用户名!");form.name.select();return(false);}if(form.pwd.value==""){alert("请输入用户密码!");form.pwd.select();return(false);}return(true);}</script>
+</head>
+<body>
+<div class="login-main">
+<form name="form1" method="post" action="chkadmin.php"
+	onSubmit="return chkinput(this)">
+<div class="login-user"><input name="name" type="text"
+	title="输入您的帐户" /></div>
+<div class="login-pw"><input name="pwd" type="password"
+	title="输入您的密码" /></div>
+<div class="login-menu"><input name="" type="submit" value=""
+	title="登陆" /></div>
+</form>
+</div>
+</body>
+</html>

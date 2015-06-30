@@ -1,0 +1,32 @@
+/* 表单定义-----ielur.com*/
+*{
+	margin:0;
+	padding:0; 
+}
+li, ul {
+	list-style-type:none;
+}
+body {
+	background: #0096b3 url(../images/login_bg.png) repeat-x top;
+	font-family: "宋体",arial,verdana,sans-serif,fantasy,tahoma;
+	color:#5d5d5d; font-size: 12px;
+	text-align: center;
+}
+a {
+	color: #11658c; text-decoration: underline;
+}
+a:hover {
+	color: #13729e; text-decoration: none;
+}
+.login-main { width: 700px; height: 460px; background-image: url(../images/login_main.png); position: absolute; left: 100px; top: 0;
+}
+.login-user { position: absolute; left: 340px; top: 286px;
+}
+.login-pw { position: absolute; left: 340px; top: 336px;
+}
+.login-user input, .login-pw input { width: 168px; height: 18px; border: none; background: none; color: #FFFFFF;
+}
+.login-menu { position: absolute; left: 540px; top: 290px;
+}
+.login-menu input{ width: 56px; height: 56px; border: none; background-image: url(../images/login_menu.png); cursor: pointer; background-color: transparent;
+}

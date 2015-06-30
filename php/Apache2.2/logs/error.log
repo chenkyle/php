@@ -1,0 +1,187 @@
+Starting the Apache2.2 service
+The Apache2.2 service is running.
+to load dynamic library 'D:/php/php5.3.10/ext\\php_intl.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\php_intl.dll' - 找不到指定的模块。
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\\php_interbase.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\php_interbase.dll' - 找不到指定的模块。
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\\php_ldap.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\php_ldap.dll' - 找不到指定的模块。
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\\php_oci8.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\php_oci8.dll' - 找不到指定的模块。
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\\php_oci8_11g.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\php_oci8_11g.dll' - 找不到指定的模块。
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\\php_pdo_firebird.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\php_pdo_firebird.dll' - 找不到指定的模块。
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\php_pdo_mssql.dll' - 找不到指定的模块。
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\\php_pdo_oci.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\php_pdo_oci.dll' - 找不到指定的模块。
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\\php_pdo_pgsql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\php_pdo_pgsql.dll' - 找不到指定的模块。
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\\php_pgsql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\php_pgsql.dll' - 找不到指定的模块。
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\\php_pspell.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\php_pspell.dll' - 找不到指定的模块。
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\\php_sybase_ct.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\php_sybase_ct.dll' - 找不到指定的模块。
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\\php_zip.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\php_zip.dll' - 找不到指定的模块。
+ in <b>Unknown</b> on line <b>0</b><br />
+[Thu Jun 25 23:00:38 2015] [notice] Apache/2.2.22 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Thu Jun 25 23:00:38 2015] [notice] Server built: Jan 28 2012 11:16:39
+[Thu Jun 25 23:00:38 2015] [notice] Parent: Created child process 14948
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\\php_intl.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\php_intl.dll' - 找不到指定的模块。
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\\php_interbase.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\php_interbase.dll' - 找不到指定的模块。
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\\php_ldap.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\php_ldap.dll' - 找不到指定的模块。
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\\php_oci8.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\php_oci8.dll' - 找不到指定的模块。
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\\php_oci8_11g.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\php_oci8_11g.dll' - 找不到指定的模块。
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\\php_pdo_firebird.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\php_pdo_firebird.dll' - 找不到指定的模块。
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\php_pdo_mssql.dll' - 找不到指定的模块。
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\\php_pdo_oci.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\php_pdo_oci.dll' - 找不到指定的模块。
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\\php_pdo_pgsql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\php_pdo_pgsql.dll' - 找不到指定的模块。
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\\php_pgsql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\php_pgsql.dll' - 找不到指定的模块。
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\\php_pspell.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\php_pspell.dll' - 找不到指定的模块。
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\\php_sybase_ct.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\php_sybase_ct.dll' - 找不到指定的模块。
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\\php_zip.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library 'D:/php/php5.3.10/ext\php_zip.dll' - 找不到指定的模块。
+ in <b>Unknown</b> on line <b>0</b><br />
+[Thu Jun 25 23:00:40 2015] [notice] Child 14948: Child process is running
+[Thu Jun 25 23:00:40 2015] [notice] Child 14948: Acquired the start mutex.
+[Thu Jun 25 23:00:40 2015] [notice] Child 14948: Starting 64 worker threads.
+[Thu Jun 25 23:00:40 2015] [notice] Child 14948: Starting thread to listen on port 80.
+[Thu Jun 25 23:01:09 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/meal3
+[Thu Jun 25 23:01:09 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/favicon.ico
+[Thu Jun 25 23:01:18 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/user, referer: http://localhost/meal/index.php
+[Thu Jun 25 23:01:19 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/favicon.ico
+[Thu Jun 25 23:01:23 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/user, referer: http://localhost/meal/index.php
+[Thu Jun 25 23:01:23 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/favicon.ico
+[Thu Jun 25 23:01:25 2015] [error] [client 127.0.0.1] PHP Warning:  Unknown: Your script possibly relies on a session side-effect which existed until PHP 4.2.3. Please be advised that the session extension does not consider global variables as a source of data, unless register_globals is enabled. You can disable this functionality and this warning by setting session.bug_compat_42 or session.bug_compat_warn to off, respectively in Unknown on line 0, referer: http://localhost/meal/index.php
+[Thu Jun 25 23:01:25 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/user, referer: http://localhost/meal/list_jrtj.php?tj=1&mod=today
+[Thu Jun 25 23:01:25 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/favicon.ico
+[Thu Jun 25 23:01:29 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/favicon.ico
+[Thu Jun 25 23:01:29 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/js, referer: http://localhost/meal/regsiter.php
+[Thu Jun 25 23:01:29 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/user, referer: http://localhost/meal/regsiter.php
+[Thu Jun 25 23:01:29 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/favicon.ico
+[Thu Jun 25 23:01:37 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/favicon.ico
+[Thu Jun 25 23:01:37 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/user, referer: http://localhost/meal/regsiter.php
+[Thu Jun 25 23:01:37 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/favicon.ico
+[Thu Jun 25 23:01:41 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/js, referer: http://localhost/meal/regsiter.php
+[Thu Jun 25 23:01:41 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/user, referer: http://localhost/meal/regsiter.php
+[Thu Jun 25 23:01:41 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/favicon.ico
+[Thu Jun 25 23:02:04 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/meal/admin.index
+[Thu Jun 25 23:02:04 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/favicon.ico
+[Thu Jun 25 23:02:16 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/meal/admin/index
+[Thu Jun 25 23:02:34 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/meal/admin/index
+[Thu Jun 25 23:02:42 2015] [error] [client 127.0.0.1] script 'D:/php/Apache2.2/htdocs/meal/admin/index.php' not found or unable to stat
+[Thu Jun 25 23:02:51 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/meal/index
+[Thu Jun 25 23:02:51 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/favicon.ico
+[Thu Jun 25 23:03:06 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/user, referer: http://localhost/meal/index.php
+[Thu Jun 25 23:03:06 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/favicon.ico
+[Thu Jun 25 23:03:24 2015] [error] [client 127.0.0.1] script 'D:/php/Apache2.2/htdocs/meal/admin/index.php' not found or unable to stat
+[Thu Jun 25 23:03:35 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/meal3
+[Thu Jun 25 23:03:45 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/favicon.ico
+[Thu Jun 25 23:03:49 2015] [error] [client 127.0.0.1] script 'D:/php/Apache2.2/htdocs/meal/admin/index.php' not found or unable to stat
+[Thu Jun 25 23:04:17 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/user, referer: http://localhost/meal/index.php
+[Thu Jun 25 23:04:18 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/favicon.ico
+[Thu Jun 25 23:04:21 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/js, referer: http://localhost/meal/saler_regsiter.php?mod=kaidian
+[Thu Jun 25 23:04:22 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/images, referer: http://localhost/meal/saler_regsiter.php?mod=kaidian
+[Thu Jun 25 23:04:22 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/user, referer: http://localhost/meal/saler_regsiter.php?mod=kaidian
+[Thu Jun 25 23:04:22 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/favicon.ico
+[Thu Jun 25 23:04:33 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/favicon.ico
+[Thu Jun 25 23:04:56 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/favicon.ico
+[Thu Jun 25 23:05:08 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/favicon.ico
+[Thu Jun 25 23:08:14 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/favicon.ico
+[Thu Jun 25 23:08:28 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/favicon.ico
+[Thu Jun 25 23:08:30 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/favicon.ico
+[Thu Jun 25 23:09:39 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/favicon.ico
+[Thu Jun 25 23:09:46 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/favicon.ico
+[Fri Jun 26 16:00:48 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/messenger-front
+[Fri Jun 26 16:20:47 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/messenger-front
+[Tue Jun 30 20:00:55 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/favicon.ico
+[Tue Jun 30 20:00:55 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/meal3
+[Tue Jun 30 20:01:06 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/user, referer: http://localhost/meal/index.php
+[Tue Jun 30 20:07:25 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/user, referer: http://localhost/meal/index.php
+[Tue Jun 30 20:08:21 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/user, referer: http://localhost/meal/index.php
+[Tue Jun 30 20:08:30 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/user, referer: http://localhost/meal/index.php
+[Tue Jun 30 20:08:45 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/js, referer: http://localhost/meal/regsiter.php
+[Tue Jun 30 20:08:45 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/user, referer: http://localhost/meal/regsiter.php
+[Tue Jun 30 22:22:16 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/user, referer: http://localhost/meal/index.php
+[Tue Jun 30 22:22:36 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/user, referer: http://localhost/meal/index.php
+[Tue Jun 30 22:26:23 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/user, referer: http://localhost/meal/index.php
+[Tue Jun 30 22:36:05 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/js, referer: http://localhost/meal/regsiter.php
+[Tue Jun 30 22:36:06 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/user, referer: http://localhost/meal/regsiter.php
+[Tue Jun 30 22:36:32 2015] [error] [client 127.0.0.1] PHP Deprecated:  Assigning the return value of new by reference is deprecated in D:\\php\\Apache2.2\\htdocs\\meal\\user\\Mail.php on line 133, referer: http://localhost/meal/regsiter.php
+[Tue Jun 30 22:36:32 2015] [error] [client 127.0.0.1] PHP Warning:  date() [<a href='function.date'>function.date</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for '8.0/no DST' instead in D:\\php\\Apache2.2\\htdocs\\meal\\user\\savereg.php on line 16, referer: http://localhost/meal/regsiter.php
+[Tue Jun 30 22:36:32 2015] [error] [client 127.0.0.1] PHP Warning:  date() [<a href='function.date'>function.date</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for '8.0/no DST' instead in D:\\php\\Apache2.2\\htdocs\\meal\\user\\savereg.php on line 17, referer: http://localhost/meal/regsiter.php
+[Tue Jun 30 22:36:33 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/user, referer: http://localhost/meal/regsiter_seccessful.php?uid=163&active=6e909005715185e3e51578e4b45eebac&email=12345@qq.com
+[Tue Jun 30 22:36:39 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/user, referer: http://localhost/meal/index.php
+[Tue Jun 30 22:39:27 2015] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\\php\\Apache2.2\\htdocs\\meal\\member_main.php on line 15, referer: http://localhost/meal/index.php
+[Tue Jun 30 22:39:27 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/user, referer: http://localhost/meal/member.php?mod=usercenter
+[Tue Jun 30 23:07:29 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/user, referer: http://localhost/meal/member.php?mod=usercenter
+[Tue Jun 30 23:12:14 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/user, referer: http://localhost/meal/member.php?mod=usercenter
+[Tue Jun 30 23:12:22 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/user, referer: http://localhost/meal/member.php
+[Tue Jun 30 23:12:26 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/user, referer: http://localhost/meal/index.php
+[Wed Jul 01 00:28:06 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/favicon.ico
+[Wed Jul 01 00:28:08 2015] [error] [client 127.0.0.1] File does not exist: D:/php/Apache2.2/htdocs/favicon.ico

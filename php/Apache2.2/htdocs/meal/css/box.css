@@ -1,0 +1,16 @@
+body {
+	background: none;
+}
+/* Getpassword-----ielur.com*/
+.getpassword table { margin: auto; border-collapse: collapse; width: 349px; text-align: center; font-size: 12px;
+}
+.getpassword td { height: 28px; width: 349px;
+}
+.getpassword A { font-size: 12px; color: #26a9c8; text-decoration: underline;
+}
+.getpassword A:hover { color: #FF6600;
+}
+.getpassword-title { height: 33px; width: 349px; background: url(../images/search_bg.png); font-size: 14px; color: #FFFFFF; font-weight: bold;
+}
+.getpassword-submit, .getpassword-button { height: 24px; width: 50px; background: url(../images/btn_chk.png); border: 0 none; padding-top: 4px; color: #FFFFFF; cursor: pointer;  margin-top: 8px; margin-left: 10px;
+}

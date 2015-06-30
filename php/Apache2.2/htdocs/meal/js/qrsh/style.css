@@ -1,0 +1,56 @@
+*{
+font-size:12px;
+}
+body, dl, dt, dd, ul, ol, li, pre, form, fieldset, input, p, blockquote {
+font-weight:400;
+margin:0;
+padding:0;
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td {
+margin:0;
+padding:0;
+}
+li {
+list-style-image:none;
+list-style-position:outside;
+list-style-type:none;
+}
+#address-collection {
+line-height:25px;
+}
+#address-collection li {
+padding-left:8px;
+width:98%;
+}
+#address-collection li.selected {
+-moz-background-clip:border;
+-moz-background-inline-policy:continuous;
+-moz-background-origin:padding;
+background:#FFFFCC none repeat scroll 0 0;
+}
+th, td {
+font-size:12px;
+font-weight:400;
+}
+.h, .H {
+color:#FF5500 !important;
+}
+#confirm-info td {
+padding:5px 0;
+}
+#confirm-info .first-col {
+text-align:right;
+vertical-align:top;
+}
+.label-server-error, .label-error {
+-moz-background-clip:border;
+-moz-background-inline-policy:continuous;
+-moz-background-origin:padding;
+background:#FFF2E9 url(sys_icons.gif) no-repeat scroll 5px 5px;
+border:1px solid #FF6600;
+height:25px;
+line-height:25px;
+margin:5px 0 0;
+padding-left:28px;
+width:auto;
+}

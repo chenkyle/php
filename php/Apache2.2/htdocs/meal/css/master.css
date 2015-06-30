@@ -1,0 +1,821 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+ul, li {
+	list-style-type: none;
+}
+body {
+	font-size: 12px;
+	font-family: "宋体", Arial, Helvetica, sans-serif;
+	background:  #faf3e1 url(../images/bg.jpg) top repeat-x fixed;
+	text-align:center;
+} 
+a {
+	color:#000000;
+	font-size:12px;
+	text-decoration: none;
+}
+
+a:hover{
+	color:#0069a3;
+	text-decoration: none;
+}
+/* Clear Fix */
+.clearfix:after {
+	content:".";
+	display:block;
+	clear:both;
+	visibility:hidden;
+}
+.clearfix {
+	display:inline-block;
+}
+/* Hide from IE Mac */
+.clearfix { 
+	display:block; 
+}
+/* End hide from IE Mac */
+/* 首页主要内容-----ielur.com*/
+.main { width: 1000px; overflow: auto; padding-bottom: 10px; margin: auto;  position: relative; background: #FFFFFF;
+}
+/* 顶部-----ielur.com*/
+.header { width: 1000px; height: 120px; margin: auto; position: relative;
+}
+.logo { position: absolute; top: 28px; left: 10px; 
+}
+.topnav { position: absolute; top: 6px; left: 700px; color: #FFFFFF; font-size: 12px; 
+}
+.topnav li { float: left; margin-left: 14px; line-height: 28px;
+}
+.topnav img { margin: auto 4px -2px auto;
+}
+.topnav A { color: #fdf4e2; font-size: 12px;
+}
+.topnav A:hover { color: #ffd786; text-decoration: underline;
+}
+.nav { left: 420px; top: 70px; position: absolute;
+}
+.nav li { width: 100px; float: left; height: 24px;
+}
+.nav A { font-size: 14px; color: #fdf4e2; font-weight: bold; text-decoration: none; width: 90px; height: 20px; padding-top: 6px; display: block;
+}
+.nav A:hover { color: #971811; text-decoration: underline; width: 90px; height: 20px; padding-top: 6px; display: block; background-color: #fdf4e2;
+}
+.nav-active A { font-size: 14px; color: #971811; font-weight: bold; text-decoration: underline; width: 90px; height: 20px; padding-top: 6px; display: block; background-color: #fdf4e2;
+}
+/* BANNER-----ielur.com*/
+.banner { position: relative; width: 1000px; height: 220px; background: #FFFFFF; margin: auto; margin-bottom: 10px;
+}
+.banner-bar-l { width: 460px; height: 180px; background: url(../images/banner_bg_bar.png) right repeat-y; position: absolute; top: 20px; left: 35px; _left: 20px; #left: 20px; text-align: left;
+}
+.banner-bar-l li { width: 420px; margin-top: 6px;
+}
+.banner-bar-l-t { font-size: 16px; color: #991b0d; font-weight: bold;
+}
+.banner-bar-l-s { font-size: 12px; color: #e39a00;
+}
+.gray { color: #999999;
+}
+.banner-bar-l-menu { width: 150px; position: absolute; top: 132px; left: 240px;
+}
+.banner-bar-l-menu A { display: block; width: 150px; height: 37px; background:  url(../images/regsiter_menu.png);
+}
+.banner-bar-r { width: 480px; _width: 500px; #width: 500px; height: 180px; background: url(../images/banner_bg_bar.png) right repeat-y; position: absolute; top: 20px; left: 480px; _left: 400px; #left: 450px;text-align: left
+}
+.banner-bar-r-h { position: absolute; left: 40px; #left: 60px; top: 5px; 
+}
+.loginbar { position: absolute; top: 25px; left: 40px; 
+}
+.loginbar li { margin-left: 10px; margin-top: 8px;
+}
+.loginbar-text { width: 134px; height: 18px; background-image: url(../images/loginbar_text.png); border: none; padding: 6px 0 0 8px; color: #999999;  display: block; background-color: transparent;  
+}
+.loginbar-b { position: absolute; top: 4px; left: 160px;
+}
+.loginbar-button { width: 82px; height: 48px; background-image: url(../images/loginbar_button.png); border: none; display: block; color: #FFFFFF; font-size: 16px; padding-bottom: 8px;  display: block; cursor: pointer; background-color: transparent;
+}
+.regsiter { position: absolute; top: 26px; left: 310px; color: #7f7f7f;
+}
+.regsiter li { margin-top: 12px;
+}
+.regsiter A { color: #2794d9; text-decoration: underline; font-size: 12px; margin-left: 10px;
+}
+.regsiter A:hover { color: #ff6000; text-decoration: none; margin-left: 10px;
+}
+.banner-bar-r-s { position: absolute; left: 40px; #left: 60px; top: 110px; 
+}
+.search { position: absolute; top: 140px; left: 40px; #left: 60px; width: 440px; height: 33px; background: url(../images/search_bg.png) left repeat-y; padding-left: 20px;
+}
+.search li { float: left;
+}
+.search-text { width: 220px; height: 16px; color: #741c10; border: #e4e4e4 1px solid; background: #FFFFFF; padding: 4px 0 0 8px; margin-top: 4px;
+} 
+.search-button { width: 60px; height: 20px; background-image: url(../images/search_menu.png); border: none; margin-left: 20px; color: #FFFFFF; margin-top: 4px; padding-top: 0px; _padding-top: 3px; #padding-top: 3px; display: block; cursor: pointer; background-color: transparent;
+}
+.search-more { padding-top: 10px; margin-left: 30px;
+}
+.search-more A { color: #741c10; font-size: 12px;
+}
+.search-more A:hover { color: #00CCFF; text-decoration: underline;
+}
+.reg-add { width: 120px;
+}
+.reg-add-2 { width: 100px;
+}
+/* BANNER公告模块-----ielur.com*/
+.banner-announcement { background: url(../images/banner_announcement.png); width: 380px; height: 120px; position: absolute; top: 34px; left: 16px; font-size:12px; font-weight: normal; padding: 10px;
+}
+.banner-announcement ul { margin-left: 20px; height: 20px; color: #999999; padding: 0;margin: 0; position: relative;
+}
+.banner-announcement li { padding: 3px;margin: 0;
+}
+.banner-announcement-scroll { overflow: hidden; position: relative; height: 100%; width: 370px; margin-left: 10px;
+}
+.banner-announcement A { margin-left: 12px; color: #FF6600; font-size: 14px;
+}
+.banner-announcement A:hover { margin-left: 12px; color: #0099CC; text-decoration: underline;
+}
+.banner-member { background: url(../images/banner_member.png); width: 390px; height: 52px; position: absolute; top: 34px; left: 60px; line-height: 24px; padding: 8px 0 0 10px; color: #FFFFFF;
+}
+.FFFFFF { background-color: #fff3ea;
+}
+.banner-member img { margin-left: 16px; margin-bottom: -2px;
+}
+.banner-member A { margin-left: 4px; color: #FFFFFF; font-size: 12px; text-decoration: underline;
+}
+.banner-member A:hover { margin-left: 4px; color: #ffe8bf; font-size: 12px; text-decoration: underline;
+}
+/* 首页推荐商品模块-----ielur.com*/
+.hot { width: 1000px; height: 200px; background: #e7e7e7 url(../images/hot_bg.png); position: relative;
+}
+.hot-menu { width: 600px; height: 25px; position: absolute; top: 18px; left: 20px; _left: 0px; 
+}
+.hot-menu-off { float: left; margin-left: 20px; 
+}
+.hot-menu-off A { font-size: 14px; color: #828282; font-weight: bold;  width: 89px; height: 18px; background-image: url(../images/hot_menu.png); padding-top: 7px; display: block;
+}
+.hot-menu-off A:hover { background-image: url(../images/hot_active.png); width: 89px; height: 18px; padding-top: 7px; display: block; color: #ab2d14;
+}
+.hot-active { background-image: url(../images/hot_active.png); width: 89px; height: 18px; margin-left: 20px; float: left; padding-top: 7px;
+}
+.hot-active A { font-size: 14px; color: #FFFFFF; font-weight: bold;
+}
+.hot-active A:hover { color: #ab2d14;
+}
+.hot-big-box { height: 122px; position: absolute; top: 53px; left: 8px; _left: 2.5px;
+}
+.hot-min-box { height: 120px; width: 238px; border: #d6d6d6 1px solid; background: #eeeeee; float: left; margin-left: 5px;
+}
+.hot-min-box-img { float: left; margin: 7px 6px 0 6px; _margin: 7px 6px 0 3px; width: 138px;
+}
+.hot-min-box-img img { border: none;
+}
+.hot-min-box-img A { border: #d6d6d6 1px solid; display: block;
+}
+.hot-min-box-img A:hover { border: #66ccff 1px solid; display: block;
+}
+.hot-min-box-txt { float: left; width: 88px; text-align: left; margin-top: 8px;
+}
+.hot-min-box-txt A { font-size: 12px; color: #6c6c6c;
+}
+.hot-min-box-txt A:hover {  color: #3995db;
+}
+.hot-min-box-price { color: #c60000; margin: 4px 0 4px 0;
+}
+.buy-menu A { width: 75px; height: 24px; background: url(../images/buy_menu.png); display: block; margin-bottom: 6px;
+}
+.shopping-car A { width: 76px; height: 13px; background: url(../images/shopping_car.png); display: block;
+}
+.buy-menu input { width: 75px; height: 24px; background: url(../images/buy_menu.png); margin-bottom: 6px; border: none; cursor: pointer;
+}
+.shopping-car input { width: 76px; height: 13px; background: url(../images/shopping_car.png); border: none; cursor: pointer;
+}
+/* 首页商品分类模块-----ielur.com*/
+.sort { width: 1000px; height: 200px; background: url(../images/banner_bg.png); position: relative;
+}
+.sort-menu { width: 950px; height: 24px; background: url(../images/sort_menu_bg.png); position: absolute; top: 20px; left: 24px;
+}
+.sort-menu-off { width: 100px; height: 18px; padding-top: 6px; background: url(../images/sort_menu_off.png); float: left; margin-right: 20px;
+}
+.sort-menu-off A { color: #f5906e; font-weight: bold; font-size: 14px;
+}
+.sort-menu-off A:hover { color: #d84311;
+}
+.sort-menu-active { background: url("../images/sort_menu_on_1.png"); float: left; margin-right: 20px; width: 100px; height: 18px; padding-top: 6px;
+}
+.sort-menu-active A { color: #e96133; font-weight: bold; font-size: 14px;
+}
+.sort-menu-active A:hover { color: #d84311;
+}
+.sort-box { width: 950px; height: 120px; padding-top: 12px; background: #ebebeb; position: absolute; top: 44px; left: 24px; text-align: left;
+}
+.sort-box ul { width: 100px; float: left; height: 110px;  margin-left: 12px; padding-left: 20px; border-left: #e0e0e0 1px solid;
+}
+.sort-box-tit{ margin-bottom: 6px;
+}
+.sort-box h1, .hot-big-box h1 { color: #da5d21; font-size: 14px; font-weight: bold; margin: 10px auto auto 20px;
+}
+.sort-box-tit A { color: #2474b6; font-weight: bold; font-size: 14px;
+}
+.sort-box-tit A:hover { color: #4295da; text-decoration: underline;
+}
+.sort-box-txt { margin-bottom: 2px;
+}
+.sort-box-txt A { color: #333333; font-size: 12px;
+}
+.sort-box-txt A:hover { color: #e96133; text-decoration: underline;
+}
+.commend  { color: #e96133;
+}
+/* 注册页-----ielur.com
+.reg { position: relative; width: 1000px; height: 820px; background: #FFFFFF; margin: auto; margin-bottom: 10px;
+
+}
+.reg-main { position: absolute; top: 10px; left: 10px; width: 980px; height: auto; overflow: auto;
+}
+.reg-tit { width: 980px; height: 36px; background-image: url(../images/reg_bg.png); position: relative; margin-bottom: 20px;
+}
+.reg-title { color: #FFFFFF; font-size: 14px; font-weight: bold; position: absolute; top: 12px; left: 52px;
+}
+.reg-content { width: 978px; overflow: auto;
+}
+.reg-guild { height: 34px; width: 850px; background: url(../images/guild_bg.png); margin: 12px auto 4px auto; color: #e17626; font-size: 14px; font-weight: bold; text-align: left; padding: 6px 0 0 50px;
+}
+.reg-table { width: 900px; font-size: 14px; line-height: 200%;
+}
+.reg-table-left { width: 200px; text-align: right;
+}
+.reg-table-right { width: 500px; text-align: left;
+}
+.inputcss, .inputcss-1, .sel { width: 240px; height: 20px; border: #e17626 1px solid; background: #f9f8f3; padding-top: 2px; #margin-left: 0px;
+}
+.inputcss-2 { margin-left: 40px;  #margin-left: 0px;
+}
+.inputcss-3 { height: 16px; border: #e17626 1px solid; background: #f9f8f3; padding-top: 2px;
+}
+.sel { height: 24px; #height: 18px; border: #CCCCCC 1px solid; 
+}
+.inputcss-1 { width: 180px;
+}
+.button-1 { width: 50px; height: 24px; margin-left: 10px; background: url(../images/btn_chk.png); border: none; color: #FFFFFF; cursor: pointer;
+}
+.nes { color: #FF0000;
+}
+.Cgray { color: #999999; font-size: 12px; font-weight: 400; margin-left: 20px;
+}
+.reg-agree { text-align: center; font-size: 12px;
+}
+.reg-agree A { font-size: 12px; text-decoration: underline; color: #FF6600;
+}
+.reg-agree A:hover { text-decoration: underline; color: #0099CC;
+}
+.reg-button{ margin-top: 20px;
+}
+.reg-button-s { background: url(../images/reg_button.png); height: 32px; width: 80px; border: none; cursor: pointer; margin-right: 20px;
+}
+.reg-button-r { background: url(../images/reg_button_r.png); height: 32px; width: 80px; border: none; cursor: pointer;
+}
+*/
+/* reg-----ielur.com*/
+.reg { width: 980px; background: #FFFFFF; margin: auto; padding: 10px;
+}
+.reg-left, .reg-right { width: 462px; float: left; border:  #CCCCCC 1px solid; padding: 10px;
+}
+.reg-left-title, .reg-right-title { width: 425px; height: 22px; background: #535353; padding-top: 10px; font-size: 12px; color: #FFFFFF; text-align: left; padding-left: 20px
+}
+.reg-right { margin-left: 10px;
+}
+.reg-right-title { background: #FF6600;
+}
+.reg-left-title span, .reg-right-title span { font-size: 14px; color: #FFFFFF; font-weight: bold; margin-right: 12px;
+}
+.reg-main { margin-top: 20px; min-height: 320px; _height: 320px;
+}
+.reg-main li { height: 30px;
+}
+.reg-ipnut { width: 180px; height: 20px; border: #CCCCCC 1px solid; margin-left: 12px;
+}
+.reg-point { color: #999999; margin-bottom: -8px;
+}
+.reg-checkbox { margin: auto 8px -2px auto;
+}
+.agreement { 
+}
+.agreement h2 { font-size: 16px; font-weight: bold; line-height: 20px;
+}
+.agreement-content { width: 1000px; padding: 10px; border: #CCCCCC 2px solid; height: 400px; overflow: auto; margin: 6px auto 20px auto; line-height: 180%; color: #555555;
+}
+.agreement-content p, .agreement-content li { text-align: left; text-indent: 24px; line-height: 18px; color: #666666;
+}
+.reg-mail { width: 980px; height: 128px; margin: 10px auto 10px auto; border: #c8d6da 1px solid; position: relative;
+}
+.reg-mail-sccessful, .reg-mail-sfu { background: url(../images/regsiter_mail.png) left bottom repeat-y; height: 108px; width: 780px; #width: 980px; margin-top: 10px; line-height: 108px; font-size: 18px; padding-left: 200px;
+}
+.no-email { width: 1000px; text-align: left; margin-top: 20px; color: #333333;
+}
+.no-email h3 { margin-left: 100px; line-height: 30px;
+}
+.no-email ul { width: 1000px; margin-top: 10px;
+}
+.no-email li { width: 260px; margin-left: 50px; float: left;
+}
+.no-email A { font-size: 12px; text-decoration: underline; color: #087e8c;
+}
+.no-email A:hover { text-decoration: underline; color: #FF3300;
+}
+.reg-mail-sfu { background: url(../images/regsiter_sfu.png) left top repeat-y;
+}
+.reg-mail-sfu A { font-size: 18px; color: #087e8c;
+}
+.reg-mail-sfu A:hover {  text-decoration: underline; color: #FF3300;
+}
+.reg-steps { width: 980px; height: 30px;
+}
+.reg-steps li { float: left; text-align: center; height: 18px; #height: 24px; padding-top: 6px; color: #0d5e7c; background: #e4eef9 url(../images/flow_steps_bg.png)  left repeat-y; width: 330px;
+}
+/* 菜单列表页-----ielur.com*/
+/* list-left -----ielur.com*/
+.list-left { float: left; width: 200px; margin-left: 10px; _margin-left: 5px; margin-top: 10px; background: url(../images/list_left_bg.png); height: auto; overflow: auto;
+}
+.list-left-top { width: 200px; height: 42px; background: url(../images/list_left_top.png); 
+}
+.list-left-sc { width: 190px; margin-left: 5px; #margin-left: 0px; margin-top: 12px; overflow: auto;
+}
+.list-left-sc table { border: #e2e2e2 1px solid; margin: auto; border-collapse: collapse; width: 190px; text-align: center; font-size: 12px;
+}
+.list-left-sc table td { padding: 0; height: 26px;
+}
+.list-left-sc-n { width: 70px;
+}
+.list-left-sc-s { background-color: #e2e2e2;
+}
+.list-left-sc-d { background-color: #ececec;
+}
+.list-left-sc-d A, .list-left-sc-s A { font-size: 12px; color: #222222; text-decoration: underline;
+}
+.list-left-sc-n A { font-size: 12px; color: #FF6600; text-decoration: underline;
+}
+.list-left-sc-n A:hover, .list-left-sc-d A:hover, .list-left-sc-s A:hover { color: #3399FF; text-decoration: underline;
+}
+.list-left-sc-n input { width: 60px; height: 20px; padding-top: 4px; color: #FFFFFF; background: #FF6600; border: 0 none; cursor: pointer;
+}
+.FF3300 { color: #FF3300;
+}
+.list-left-sc-b { width: 40px; height: 20px; border: 0 none; background: url(../images/list_left_sc_b.png); color: #FFFFFF; cursor: pointer; #padding-top: 3px; margin-left: 12px;
+}
+.list-left-tit { width: 175px; height: 18px; padding: 6px 0 0 25px; background: url(../images/list_left_tit.png); font-size: 14px; color: #FFFFFF; text-align: left; margin-top: 12px;
+}
+.list-left-cat A { font-size: 12px; color: #000000; text-decoration: none;
+}
+.list-left-cat A:hover { color: #0099CC; text-decoration: underline;
+}
+.list-left-food { border: #e2e2e2 1px solid; margin: auto; width: 190px; margin-top: 12px;
+}
+.list-left-food li { height: 20px; padding-top: 6px; #margin-left: -16px;
+}
+.list-left-food A { font-size: 12px; color: #000000; text-decoration: underline; float: left;
+}
+.list-left-food A:hover { color: #0099CC; text-decoration: underline;  float: left;
+}
+.list-left-hot-a, .list-left-hot-r { width: 15px; height: 16px; border:  #FF6600 1px solid; background-color: #FF6600; color: #FFFFFF; display: block;  float: left; margin: -3px 10px 0 10px;
+}
+.list-left-hot-r { background-color: #FF9933;
+}
+.list-left-bottom { width: 200px; height: 30px; background: url(../images/list_left_bottom.png);
+}
+/* list-right-----ielur.com*/
+.list-right { float: left; width: 770px; margin-left: 10px; margin-top: 10px; height: auto; overflow: hidden; 
+}
+.list-menu { width: 770px; height: 24px; background: url(../images/sort_menu_bg.png);
+}
+.list-menu li{ cursor: pointer;
+}
+.list-column { width: 770px; border-bottom: #CCCCCC 1px dashed; height: 88px; margin-top: 18px; overflow: hidden;
+}
+.list-column-img { float: left; width: 90px; height: 69px; margin-left: 10px; _margin-left: 5px;
+}
+.list-column-img img { border: none; width: 90px; height: 69px;
+}
+.list-column-img A { border: #d6d6d6 1px solid; display: block; width: 90px; padding: 2px;
+}
+.list-column-img A:hover { border: #66ccff 1px solid; display: block; width: 90px; padding: 2px;
+}
+.list-column-tit { float: left; margin-left: 20px;  #margin-left: 10px; width: 280px; text-align: left; line-height: 200%;
+}
+.list-column-title A { font-size: 14px; font-weight: bold; color: #0d71a5;
+}
+.list-column-title A:hover { color: #FF6600; text-decoration: underline;
+}
+.bold-red { color: #FF6600; font-weight: bold; font-size: 14px;
+}
+.line-through { color: #8f8f8f; font-size: 12px; text-decoration: line-through; font-weight: 500;
+}
+.list-column-text { float: left;
+}
+.list-column-text li { margin-bottom: 16px;
+}
+.list-column-no { width: 32px; height: 16px; border: #FF6600 1px solid; color: #666666; text-align: center;
+}
+.pay-Style { width: 100px; height: 22px; color: #666666; text-align: center;
+}
+.list-column-buy { float: left; margin-left: 40px; #margin-left: 20px; margin-top: 6px;
+}
+.list-column-buy li { margin-bottom: 8px;
+}
+.list-column-buy A { font-size: 12px; color: #333333; text-decoration: underline;
+}
+.list-column-buy A:hover { color: #0099CC; text-decoration: underline;
+}
+/* page-bottom-----ielur.com*/
+.page-bottom { width: 570px; margin: 12px auto 12px auto; padding-left: 0px;
+}
+.page-prev, .page-cur, .page-start, .page-break, .page-skip, .page-no { float:left; height: 18px; margin:0 3px 0 0; text-align: center; white-space: nowrap; vertical-align: middle; line-height: 18px;
+}
+.page-start A,.page-prev A { width: 18px; height: 18px; border: solid 1px #ccc; background: url(../images/page_start_off.png); display: block;
+}
+.page-start A:hover, .page-prev A:hover { width: 18px; height: 18px; border: solid 1px #ccc; background: url(../images/page_start_on.png); display: block;
+}
+.page-no { border:1px solid #dadada; padding: 0 5px; font-weight: 500; color: #333333; background-color: #ececec;
+}
+.page-cur { border:1px solid #FD6D01; padding: 0 5px; font-weight: 700; color: #FD6D01; background-color:#FFEDE1;
+}
+.page-prev A { background: url(../images/page_prev_on.png); margin-right: 20px;
+}
+.page-prev A:hover { background: url(../images/page_prev_off.png); margin-right: 20px;
+}
+.page-skip-input{ width: 30px; height: 16px; margin: 0 5px; border: solid 1px #999; vertical-align: top; *vertical-align: middle; color: #000;text-align: center; vertical-align: middle;
+}
+.page-skip-button { width: 40px; height: 18px; margin:0 0 0 5px; border: 0 none; background: url(../images/page_skip_button.png); cursor: pointer; vertical-align: middle;
+}
+/* 商品展示页-----ielur.com*/
+.show-submenu { font-size: 12px; color: #999999; width: 750px; padding-left: 20px;  text-align: left; margin: 8px auto 12px auto;
+}
+.show-submenu A { font-size: 12px; color: #666666; 
+}
+.show-submenu A:hover { font-size: 12px; color: #0099CC; text-decoration: underline;
+}
+/* 商品购买信息盒子-----ielur.com*/
+.show-buy-box { width: 770px;  background: url(../images/show_buy_box_bg.png); overflow: hidden;
+}
+.show-buy-box-tit { background: url(../images/show_buy_box_tit.png); height: 30px; width: 770px; padding-top: 9px; font-weight: bold; font-size: 16px; color: #990000;
+}
+.show-buy-box-main {  width: 770px; overflow: hidden;
+}
+.show-buy-box-left { float: left; width: 255px; margin-left: 5px;
+}
+.show-buy-box-left img { height: 154px; border: 0 none;
+}
+.show-buy-box-left A { height: 154px; width: 200px; border: #ffcc99 1px solid; padding: 5px; margin: 12px auto 12px 14px; #margin-left: 12px; background-color: #FFFFFF; display: block;
+}
+.show-buy-box-left A:hover { height: 154px; width: 200px; border: #FF9900 1px solid; padding: 5px; margin: 12px auto 12px 14px; #margin-left: 12px; background-color: #fff8e3; display: block;
+}
+.show-buy-box-right { float: left;  width: 500px; text-align: left; padding-top: 12px; line-height: 160%;
+}
+.show-buy-box-right li { margin-left: 15px; #margin-left: 0px;
+}
+.fontsize-18 { font-size: 18px;
+}
+.color-red { color: #CC0000;
+}
+.margin-left-20 { margin-left: 20px;
+}
+.border-ffac7d { border: #ffac7d 1px solid; 
+}
+.magin-top-8 { margin-top: 8px;
+}
+.show-buy-box-exponent { background-color: #fef8e9; border: #f0ba90 1px solid; width: 480px; height: 40px; margin-top: 12px; position: relative;
+}
+.show-buy-box-exponent-m { position: absolute; top: 4px; left: 20px;
+}
+.show-buy-box-exponent-s { position: absolute; top: 18px; left: 20px;
+}
+.show-buy-box-exponent-c {  position: absolute; top: 10px; left: 200px;
+}
+.show-buy-box-exponent-c A { font-size: 12px; text-decoration: underline; color: #0099CC;
+}
+.show-buy-box-exponent-c A:hover { text-decoration: underline; color: #FF3300;
+}
+.show-buy-box-buy { position: relative; width: 500px; 
+}
+.show-buy-menu-buy {  position: absolute; top: 10px; left: 20px;
+}
+.show-buy-menu-buy A { height: 31px; width: 122px; display: block; cursor: pointer; background: url(../images/show_buy_menu_buy.png);
+}
+.show-buy-menu-buy input { height: 31px; width: 122px; cursor: pointer; background: url(../images/show_buy_menu_buy.png); border: none;
+}
+.show-buy-menu-order { position: absolute; top: 10px; left: 160px;
+}
+.show-buy-menu-order A { height: 31px; width: 122px; display: block; cursor: pointer; background: url(../images/show_buy_menu_order.png);
+}
+.show-buy-menu-order input { height: 31px; width: 122px; cursor: pointer; background: url(../images/show_buy_menu_order.png); border: none;
+}
+.show-buy-menu-favorites { position: absolute; top: 15px; left: 300px;
+}
+.show-buy-menu-favorites  A { height: 26px; width: 102px; display: block; cursor: pointer; background: url(../images/show_buy_menu_favorites.png);
+}
+.show-buy-box-bottom { height: 8px; width: 770px; background: url(../images/show_buy_box_bottom.png);
+}
+/* 商品详细信息-----ielur.com*/
+.show-main-box-tit { width: 770px; height: 37px; background: url(../images/show_main_box_tit.png); margin-top: 12px;
+}
+.show-main-box { width: 728px; padding: 20px; border: #e6833e 1px solid; background-color: #fffbf1; overflow: hidden;  text-align: left; text-indent: 24px; font-size: 14px; line-height: 160%;
+}
+.show-main-box A { font-size: 12px; text-decoration: underline; color: #0099CC;
+}
+.show-main-box A:hover { text-decoration: underline; color: #FF3300;
+}
+.show-main-box img { width: 700px; padding: 4px; border: #CCCCCC 1px solid; margin: 12px auto 12px -12px;
+}
+
+
+/* 商品评论-----ielur.com*/
+.show-comments-tit {  width: 770px; height: 25px; border-bottom: #e3680c 1px solid; background: url(../images/show_comments_tit.png) repeat-y left; margin: 12px auto 12px auto;
+}
+.show-comments { text-align: left;
+}
+.show-comments li { width: 770px; height: 20px; #margin-left: -20px; padding-top: 8px;
+}
+.width-100 { width: 100px; text-align: center;
+}
+/* 本店其他菜品-----ielur.com*/
+.show-qitacaipin-tit {  width: 770px; height: 25px; border-bottom: #e3680c 1px solid; background: url(../images/show_qitacaipin_tit.png) repeat-y left; margin: 12px auto 12px auto;
+}
+.show-qitacaipin { text-align: left; overflow:hidden;
+}
+.show-qitacaipin li { width: 770px; height: 20px; #margin-left: -20px; padding-top: 8px;
+}
+.width-100 { width: 100px; text-align: center; 
+}
+/* 店铺介绍-----ielur.com*/
+.show-dianpu-tit {  width: 770px; height: 25px; border-bottom: #e3680c 1px solid; background: url(../images/show_dianpu_tit.png) repeat-y left; margin: 12px auto 12px auto;
+}
+.show-dianpu { text-align: left;
+}
+.show-dianpu li { width: 770px; height: 20px; #margin-left: -20px; padding-top: 8px;
+}
+.width-100 { width: 100px; text-align: center;
+}
+/* 文章列表页-----ielur.com*/
+.txt-banner { margin: 8px auto 12px auto;
+}
+.txt_title{ padding: 18px 0px 10px 0px; text-align: center; width: 100%;
+}
+.txt_other{ padding: 10px 0 10px 0; text-align: center; line-height:: 27px; border-bottom: #ffcea2 1px dashed; height:: auto; margin-bottom: 10px;
+}
+.txt_con{ margin-left: 15px; text-indent: 24px; font-size: 14px; color: #282B2D; text-align: left;
+}
+.txt_time{ color: #888;padding:0 20px 0 0;
+}
+.txt_icon{ padding-lift:5px; padding-right:5px;
+}
+.txt_lmname{ padding:0 20px 0 0; color: #333333;
+}
+.txt_title A { font-size: 16px; font-weight: 600; color: #f37200;
+}
+.txt_title A:hover { color: #02a3b6;  text-decoration: underline;
+}
+.txt_hit { padding:0 5px ; color: #333333
+}
+.txt_other A { margin-left: 60px; color: #0099CC; font-size: 12px;
+}
+.txt_other A:hover { margin-left: 60px; color: #FF6600; text-decoration: underline;
+}
+.nwes-view-tit { font-size: 20px; font-weight: 800; text-align: center; margin: auto auto 12px -80px;
+}
+.nwes-view-lmname { margin-bottom: 20px; width: 600px; padding-left: 120px; border-bottom:  #CCCCCC 1px dashed; text-align: center; padding-bottom: 24px; #padding-bottom: 12px;
+}
+.nwes-view-lmname li { float: left;
+}
+.txt-show-bottom { width: 700px; margin: 12px auto 12px auto;
+}
+.txt-show-bottom A { color: #0099CC; font-size: 12px;
+}
+.txt-show-bottom A:hover { color: #FF6600; text-decoration: underline; 
+}
+.txt-show-bottom-l { float: left;
+}
+.txt-show-bottom-r { float: right;
+}
+/* 会员中心-----ielur.com*/
+/* 会员中心左边-----ielur.com*/
+.member-left-top { width: 200px; height: 42px; background: url(../images/member_left_top.png); 
+}
+.member-left-tit { width: 155px; height: 20px; padding: 6px 0 0 45px; background: url(../images/member_left_tit.png); font-size: 14px; color: #FFFFFF; text-align: left; margin-top: 10px; position:relative;
+}
+.member-left-btn { width: 15px; height: 13px; display: block; position: absolute; left: 160px; top: 8px; overflow: hidden; cursor: pointer;
+}
+.member-left-btn1 { background: url(../images/member-left-menu-on.png);
+}
+.member-left-btn2 { background: url(../images/member-left-menu-off.png);
+}
+.member-left-tit A, .member-left-tit A:hover { width: 15px; height: 13px; background: url(../images/member-left-menu-on.png); display: block; position: absolute; left: 160px; top: 8px;
+}
+.member-left-tit A:hover { background: url(../images/member-left-menu-off.png);
+}
+.member-left-txt { padding-top: 10px; text-align: left; width: 200px;
+}
+.member-left-txt li { width: 120px; margin-left: 40px; #margin-left: 20px; height: 22px;
+}
+.member-left-txt img { margin-bottom: -4px;
+}
+.member-left-txt A { font-size: 12px; color: #0066CC; margin-left: 8px;
+}
+.member-left-txt A:hover { font-size: 12px; color: #FF6600; text-decoration: underline;
+}
+/* 会员中心右边-----ielur.com*/
+/* 会员中心右边首页-----ielur.com*/
+.member-right-tit { background: url(../images/member_right_tit.png); width: 700px; height: 25px; font-size: 14px; color: #FFFFFF; font-weight: bold; text-align: left; padding-left: 70px; padding-top: 12px;
+}
+.member-right-box { width: 728px; padding: 20px; border: #e6833e 1px solid; background-color: #fffbf1; overflow: hidden;  text-align: left; font-size: 12px;
+}
+.member-right-main { width: 688px; #width: 708px; border: #e7e7e7 1px solid; background-color: #FFFFFF; padding: 10px; padding-left: 30px; #padding-left: 10px;
+}
+.member-right-main-tit { font-size: 18px; color: #FF3300; margin-bottom: 8px; 
+}
+.member-right-main-txt { height: 22px;
+}
+.C0099CC { color: #0099CC;
+}
+.member-right-main-menu { background: url(../images/member_right_main_menu.png); height: 19px; #height: 17px; width: 70px; text-align: center; padding-top: 3px; #padding-top: 5px; float: left; margin-left: 20px;
+}
+.member-right-main-menu A { font-size: 12px; color: #FFFFFF; 
+}
+.member-right-main-menu A:hover { color: #FF6600;
+}
+.member-right-main-box { width: 680px; border-top: #CCCCCC 1px dashed; height: 20px; #margin-top: 20px; padding-top: 10px;
+}
+.member-right-main-box A, .member-right-main-gwc A { font-size: 12px; color: #0099CC; text-decoration: underline;
+}
+.member-right-main-box A:hover, .member-right-main-gwc A:hover { color: #FF6600; text-decoration: underline;
+}
+.member-right-title { background: url(../images/member_right_title.png) repeat-y left; height: 17px; padding: 6px 0 0 35px; text-align: left; width: 695px; color: #FFFFFF; font-weight: bold; border-bottom: #eb6b10 1px solid; margin-top: 10px;
+}
+.member-right-sc { width: 730px; margin-left: 5px; #margin-left: 0px; margin-top: 12px; overflow: hidden;
+}
+.member-right-sc table { border: #e2e2e2 1px solid; margin: auto; border-collapse: collapse; width: 730px; text-align: center; font-size: 12px;
+}
+.member-right-sc table td { padding: 0; height: 26px;
+}
+.member-right-sc-n { width: 200px;
+}
+.member-right-sc-s { background-color: #e2e2e2;
+}
+.member-right-sc-d { background-color: #ececec;
+}
+.member-right-sc-b { text-align: center;
+}
+.member-right-sc-b A { color: #0099CC; text-decoration: underline; font-size: 12px;
+}
+.member-right-sc-b A:hover { color: #FF6600; text-decoration: underline;
+}
+.member-right-sc-n A { font-size: 12px; color: #FF6600; text-decoration: underline;
+}
+.member-right-sc-n A:hover { color: #3399FF; text-decoration: underline; 
+}
+/* 会员中心内页-----ielur.com*/
+.member-shop-sc table { border: #e2e2e2 1px solid; margin: auto; border-collapse: collapse; width: 720px; text-align: center; font-size: 12px; background-color: #FFFFFF; margin-top: 12px;
+}
+.member-shop-sc table td { padding: 0; height: 26px; border: #e2e2e2 1px solid;
+}
+.member-shop-input { width: 480px;
+}
+.member-shop-right { text-align: left; width: 580px;
+}
+.member-shop-submit { width: 88px; height: 24px; background: url(../images/member_shop_submit.png); border: none 0; cursor: pointer; color: #FFFFFF; padding-top: 0px; #padding-top: 4px;
+}
+/* BOX-----ielur.com*/
+.box { width: 100%; height: 100%; background-color: #FFFFFF; padding-bottom: 20px;
+}
+/* 会员中心购物车-----ielur.com*/
+.member-right-sc-dj { text-align: center;
+}
+.member-shop-pingjia { width: 160px; text-align: center; color: #999999;
+}
+.member-right-htitle { height: 17px; padding-top: 6px; text-align: left; width: 730px; color: #FFFFFF; font-weight: bold; border-bottom: #eb6b10 1px solid; margin-top: 10px; padding-bottom: 6px; #padding-bottom: 6px;
+}
+.member-right-htitle A { float: left; margin-left: 20px; #margin-left: 10px; width: 80px; height: 19px; #height: 17px; padding-top: 4px; #padding-top: 6px;  text-align: center; background: url(../images/member_right_htitle_off.png); color: #e9670e; cursor: pointer; display: block; font-size: 12px;
+}
+.member-right-htitle A:hover { background: url(../images/member_right_htitle.png); color: #FFFFFF;
+}
+.member-right-htitle-active { float: left; margin-left: 20px; #margin-left: 10px; background: url(../images/member_right_htitle.png); color: #FFFFFF; width: 80px; height: 19px; #height: 17px; padding-top: 4px; #padding-top: 6px;  text-align: center;  font-size: 12px;
+}
+.top-20px { margin-top: 20px;
+}
+.member-button { text-align: center; height: 40px;
+}
+.member-button input { width: 50px; height: 24px; border: 0 none; background: url(../images/btn_chk.png); color: #FFFFFF; cursor: pointer; #padding-top: 4px;
+ margin-right: 20px;}
+.member-add-n { width: 80px;
+}
+.member-add-a { width: 280px;
+}
+.member-add-c { width: 80px;
+}
+.member-add-cz { width: 40px;
+}
+.member-right-sc-tit { width: 320px;
+}
+.member-mail-bottom { text-align: right;
+}
+.margin-right-8 { margin-right: 8px;
+}
+.member-send li { margin-top: 12px;
+}
+.member-send-t { font-size: 14px; font-weight: bold; color: #0099cc;
+}
+.member-send-n { font-size: 12px; color: #333333; text-indent: 24px; line-height: 160%;
+}
+.member-send-b { margin-left: 420px; color: #666666;
+}
+.flow-steps { width: 748px; height: 30px; margin-top: 16px;
+}
+.flow-steps li { float: left; text-align: center; height: 18px; padding-top: 6px; color: #9f2c00; background: #faecba url(../images/flow_steps_bg.png)  left repeat-y; width: 180px;
+}
+/* 搜索-----ielur.com*/
+.search-title { background: url(../images/search_title.png) repeat-y; height: 28px; width: 938px; border-bottom: #ef6a2c 1px solid; position: absolute; left: 30px; top: 12px;
+}
+.search-ico { background: url(../images/search_ico.png); height: 50px; width: 50px; position: absolute; left: 50px; top: 60px;
+}
+.search-main { height: 120px; width: 600px; position: absolute; left: 140px; top: 60px; text-align: left; white-space: nowrap; vertical-align: middle; font-size: 14px;
+}
+.search-main li { height: 30px; 
+}
+.width-320 { width: 320px; margin-left: 16px; margin-right: 30px;
+}
+.checkboxcss { margin-left: 8px;
+}
+.left-30 { margin-left: 30px;
+}
+.width-80 { width: 80px; 
+}
+.buttoncss { background: url(../images/buttoncss.png); width: 90px; height: 24px; border: 0 none; color: #FFFFFF; cursor: pointer; margin-left: 200px; margin-top: 8px;
+}
+/* 底部-----ielur.com*/
+.footer { width: 1000px; height:164px; background: url(../images/footer_bg.png) repeat-x; margin: auto;  position: relative; top: 12px;
+}
+.footer-menu { position: absolute; width: 960px; left: 20px; top: 10px; padding-bottom: 4px;
+}
+.footer-menu A { color: #000000;
+}
+.footer-menu A:hover { color: #222222; text-decoration: underline;
+}
+#QLbottom{ clear:both; height:110px; padding: 5px; position: absolute; left: 40px; top: 40px;
+}
+#QLbottom #QLinfo{ float:left; color: #FFFFFF; margin-left: 50px; display: inherit;
+}
+#QLinfo A { color: #FFFFFF; font-size: 12px;
+}
+#QLinfo A:hover { color: #ffe8d7; text-decoration: underline;
+}
+#QLbottom #QLinfo ul{ font-weight: bold; list-style-position: inside; margin:0; padding:5px 0 5px 10px; text-align:left;
+}
+#QLbottom #QLinfo li{ list-style-type: square; font-weight: normal; text-align:left; line-height: 18px;
+}
+.copyright { width: 1000px; position: absolute; left: 0px; top: 130px; 
+}
+.copyright A { font-size: 12px; color: #1f78ac; 
+}
+.copyright A:hover { color: #ff6600; text-decoration: underline;
+}
+/* 修补-----ielur.com*/
+#center1 h2 { color: #e04e1b; margin-top: 12px; font-weight: bold; font-size: 14px;
+}
+.list-left-sc h3 { color: #e04e1b; margin: 8px; font-weight: bold; font-size: 14px; text-align: center; width: 100%;
+}
+.no-info { color: #e04e1b; margin: 6px; font-weight: bold; font-size: 14px; width: 100%; text-align: center;
+}
+.main-bottom { font-size: 14px; color: #333333;
+}
+.reg-steps { width: 850px; height: 30px;
+}
+.reg-steps li { float: left; text-align: center; height: 18px; padding-top: 6px; color: #9f2c00; background: #faecba url(../images/flow_steps_bg.png)  left repeat-y; width: 280px;
+}
+.reg-mail { width: 920px; height: 128px; margin: 10px auto 10px auto; border:  #ef8629 1px solid; position: relative;
+}
+.reg-mail-sccessful, .reg-mail-sfu { background: url(../images/regsiter_mail.png) left bottom repeat-y; height: 108px; width: 600px; margin-top: 10px; line-height: 108px; font-size: 18px; padding-left: 200px;
+}
+.no-email { width: 840px; text-align: left; margin-top: 20px; color: #333333;
+}
+.no-email h3 { margin-left: 30px;
+}
+.no-email ul { width: 840px; margin-top: 10px;
+}
+.no-email li { width: 260px; margin-left: 15px; float: left;
+}
+.no-email A { font-size: 12px; text-decoration: underline; color: #087e8c;
+}
+.no-email A:hover {  text-decoration: underline; color: #FF3300;
+}
+.reg-mail-sfu { background: url(../images/regsiter_sfu.png) left bottom repeat-y;
+}
+.reg-mail-sfu A { font-size: 18px; color: #087e8c;
+}
+.reg-mail-sfu A:hover {  text-decoration: underline; color: #FF3300;
+}
+.margin-top-20 { margin-top: -30px;
+}
+.reg-main-submit { width: 128px; height: 27px; border: none;
+}
+.reg-main-sub { width: 119px; height: 30px; border: none;
+}
